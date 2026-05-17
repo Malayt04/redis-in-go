@@ -1,0 +1,16 @@
+# Binaries
+server
+client
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Go
+*.test
+coverage.txt
